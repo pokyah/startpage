@@ -3,7 +3,7 @@ title: Startpage
 email: your-email@domain.com
 description: "Custom Browser Startpage"
 baseurl: "/startpage" # the subpath of your site, e.g. /blog/ more info here  https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
-url: "https://pokyah.github.io/" # the base hostname & protocol for your site
+#url: "https://pokyah.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
