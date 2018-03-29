@@ -4,6 +4,8 @@
       url: reddit.com
     - name: Facebook
       url: facebook.com
+    - name: LinkedIn
+      url: linkedin.com
 
 - header: News
   links:
