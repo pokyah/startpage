@@ -1,38 +1,40 @@
 - header: e-mail
   links:
     - name: gmail
-      url: gmail.com
+      url: https://www.gmail.com
     - name: protonmail
-      url: protonmail.com
+      url: https://protonmail.com
     - name: cra-w
       url: mail.cra.wallonie.be/
 
 - header: agromet
   links:
     - name: API doc
-      url: app.pameseb.be/fr/pages/api_call_test/
+      url: https://app.pameseb.be/fr/pages/api_call_test/
     - name: agrometor git
-      url: framagit.org/agromet_geostat/agrometeor-shiny
+      url: https://framagit.org/agromet_geostat/agrometeor-shiny
     - name: agrometeor public
-      url: pokyah.github.io/agrometeor-public/
+      url: https://pokyah.github.io/agrometeor-public/
 
 - header: social
   links:
     - name: Reddit
-      url: reddit.com
+      url: https://reddit.com
     - name: Facebook
-      url: facebook.com
+      url: https://facebook.com
     - name: LinkedIn
-      url: linkedin.com
+      url: https://linkedin.com
+    - name: Github
+      url: https://github.com/pokyah
 
 - header: im
   links:
     - name: Telegram
-      url: web.telegram.org
+      url: https://web.telegram.org
     - name: Riot
       url: riot.im/app/#/room/#agromet_agromet:matrix.org
     - name: Messenger
-      url: messenger.com
+      url: https://messenger.com
 
 
 

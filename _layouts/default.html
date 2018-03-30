@@ -5,15 +5,17 @@ extra_js:
 
 <!DOCTYPE html>
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 {% include head.html %}
 
 <body>
+<canvas id="header"></canvas>
   {{ content }}
-{% for js_name in page.extra_js %}
-    <script src="{{ js_name }}"></script>
-{% endfor %}
 </body>
+<script>
+  {% include background.js %}
+</script>
 
 </html>
 
