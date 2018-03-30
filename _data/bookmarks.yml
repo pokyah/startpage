@@ -12,6 +12,8 @@
       url: https://unsplash.com/
     - name: canva
       url: https://canva.com/
+    - name: pocket reading
+      url: https://pokyah.github.io/pocket-readings/
 
 - header: e-mail
   links:
